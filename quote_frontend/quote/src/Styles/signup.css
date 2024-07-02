@@ -1,0 +1,19 @@
+/* css properties for container, button and their corresponding hover effects */
+.container{
+    border-radius: 10px;
+    margin:150px;
+    background-color:beige;
+
+}
+.login, .signup{
+    text-decoration: none;
+    color:cadetblue;
+}
+.loginbtn, .signupbtn{
+    background-color: cadetblue;
+    color:black;
+}
+.loginbtn:hover, .signupbtn:hover{
+    background-color:rgb(205, 210, 143);
+    color:black;
+}

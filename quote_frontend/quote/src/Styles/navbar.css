@@ -1,0 +1,4 @@
+/* css property for toggler icon to be white */
+.navbar-toggler{
+   background-color: white !important;
+}

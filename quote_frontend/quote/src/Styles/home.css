@@ -1,0 +1,8 @@
+/* css properties for button and hover effects */
+.getQuote{
+    border: 2px solid black;
+    background-color: cadetblue;
+}
+.getQuote:hover{
+    background-color: rgb(148, 132, 89);
+}
